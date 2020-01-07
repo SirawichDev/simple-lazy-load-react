@@ -4,7 +4,7 @@
 - click network button
 - click Slow 3G 
 
-![Screenshot](images/3gmodeee.png)
+![Screenshot](images/3gmodeee.PNG)
 
 
 ### Thanks Krab <Sirawich Voungchuy> : )
