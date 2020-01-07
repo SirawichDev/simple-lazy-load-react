@@ -7,4 +7,4 @@
 ![Screenshot](images/3gmodeee.PNG)
 
 
-### Thanks Krab <Sirawich Voungchuy> : )
+### Sirawich Voungchuy : )
